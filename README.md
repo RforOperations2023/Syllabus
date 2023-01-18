@@ -1,6 +1,6 @@
 # Syllabus
 ## R Shiny for Operations Management
-* Day/Time: Wed / 6:20-9:10 pm
+* Day/Time: Wed / 6:30-9:20 pm
 * Location: HBH 1006
 * Semester: A3 – Spring 2023
 * Units: 6, Section(s): 1
